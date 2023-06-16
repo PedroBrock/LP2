@@ -1,2 +1,2 @@
 # LP2
-Repositório da cadeira de LP2.
+Repositório do projeto da cadeira de LP2.
